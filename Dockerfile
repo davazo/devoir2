@@ -1,6 +1,6 @@
 FROM python:latest
 COPY manager .
-Copy manager server
+COPY manager server
 
 
 
